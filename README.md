@@ -27,13 +27,14 @@ Execute the programs and publish them.
 ## CODE
 ```
 map.html
+
 <html>
     <head>
         <title>Web-4</title>
     </head>
     <body>
-        <h1 align="center">dindigul</h1>
-        <h3 align=""center>vivek christo A-25013444</h3>
+        <h1 align="center">Dindigul</h1>
+        <h1 align="center">vivek christo A-25013444</h1>
     <img src="map.png" usemap="#image-map">
 
 <map name="image-map">
@@ -46,19 +47,8 @@ map.html
     </body>
 </html>
 
-court.html
-<html>
-    <head>
-        <title>parsons court</title>
-    </head>
-    <body bgcolor="cyan">
-        <h3 align="center">PARSONS COURT</h3>
-        <p>A very well Maintained business hotel in Dindigul. Close to the bus stand. Approach road is a bit not good. Car parking at an open site close to the hotel.</p>
-        <br>Address: 85, Mengles Rd, Mendonsa Colony, Nagal Nagar, Tamil Nadu 624003
-    </body>
-</html>
-
 fort.html
+
 <html>
     <head>
         <title>dindigul rock fort</title>
@@ -69,18 +59,12 @@ fort.html
 <br> Dindigul Fort Temple, Muthalagupatty, Dindigul, Tamil Nadu 624002</br>
 <br>Height: 900 feet
 
-vivera.html
-<html>
-    <head>
-        <title>vivera grande</title>
-    </head>
-    <body bgcolor="cyan">
-        <h3 align="center">VIVERA GRANDE</h3>
-        <p>VIVERA grande in Dindigul, Tamil Nadu, is a hotel known for its spacious rooms, on-site amenities including a spa, gym, and swimming pool, and dining options such as a multi-cuisine restaurant and a rooftop bar and restaurant. It offers both indoor and outdoor pools and serves as a venue for events and functions. </p>
+
     </body>
 </html>
 
 restaurant.html
+
 <html>
     <head>
     <title>attha garden restaurant</title>
@@ -92,7 +76,21 @@ restaurant.html
 </body>
 </html>
 
-venu biriyani hotel
+court.html
+
+<html>
+    <head>
+        <title>parsons court</title>
+    </head>
+    <body bgcolor="cyan">
+        <h3 align="center">PARSONS COURT</h3>
+        <p>A very well Maintained business hotel in Dindigul. Close to the bus stand. Approach road is a bit not good. Car parking at an open site close to the hotel.</p>
+        <br>Address: 85, Mengles Rd, Mendonsa Colony, Nagal Nagar, Tamil Nadu 624003
+    </body>
+</html>
+
+hotel.html
+
 <html>
     <head>
         <title>venu biriyani hotel</title>
@@ -103,17 +101,25 @@ venu biriyani hotel
     </body>
 </html>
 
-```
+vivera.html
+
+<html>
+    <head>
+        <title>vivera grande</title>
+    </head>
+    <body bgcolor="cyan">
+        <h3 align="center">VIVERA GRANDE</h3>
+        <p>VIVERA grande in Dindigul, Tamil Nadu, is a hotel known for its spacious rooms, on-site amenities including a spa, gym, and swimming pool, and dining options such as a multi-cuisine restaurant and a rooftop bar and restaurant. It offers both indoor and outdoor pools and serves as a venue for events and functions. </p>
+    </body>
+</html>
 
 ## OUTPUT
-![alt text](map.png)
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (15).png>)
-![alt text](<Screenshot (16).png>)
-![alt text](<Screenshot (17).png>)
-
-
+c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (24).png
+c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (25).png
+c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (26).png
+c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (27).png
+c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (28).png
+c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (29).png
 
 
 
