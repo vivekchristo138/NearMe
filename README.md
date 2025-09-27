@@ -112,15 +112,15 @@ vivera.html
         <p>VIVERA grande in Dindigul, Tamil Nadu, is a hotel known for its spacious rooms, on-site amenities including a spa, gym, and swimming pool, and dining options such as a multi-cuisine restaurant and a rooftop bar and restaurant. It offers both indoor and outdoor pools and serves as a venue for events and functions. </p>
     </body>
 </html>
+```
 
 ## OUTPUT
-c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (24).png
-c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (25).png
-c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (26).png
-c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (27).png
-c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (28).png
-c:\Users\Vivek Christo A\Pictures\Screenshots\Screenshot (29).png
-
+![alt text](<Screenshot (24).png>)
+![alt text](<Screenshot (25).png>)
+![alt text](<Screenshot (26).png>)
+![alt text](<Screenshot (27).png>)
+![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (29).png>)
 
 
 ## RESULT
