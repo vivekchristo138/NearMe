@@ -115,13 +115,12 @@ vivera.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (24).png>)
-![alt text](<Screenshot (25).png>)
-![alt text](<Screenshot (26).png>)
-![alt text](<Screenshot (27).png>)
-![alt text](<Screenshot (28).png>)
-![alt text](<Screenshot (29).png>)
-
+![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot (31)-1.png>)
+![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (35).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
